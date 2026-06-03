@@ -1,0 +1,9 @@
+{
+    "hello": "Hi! How can I help you today?",
+    "hi": "Hello! How can I assist you today?",
+    "python": "Python is a high-level programming language.",
+    "machine learning": "Machine Learning is a branch of AI that allows systems to learn from data.",
+    "ai": "AI stands for Artificial Intelligence.",
+    "flask": "Flask is a lightweight Python web framework.",
+    "bye": "Goodbye! Have a great day."
+}
